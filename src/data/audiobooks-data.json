@@ -1,0 +1,124 @@
+{
+  "audiobooks": [
+    {
+      "id": 261778,
+      "title": "10 minutos para atraer abundancia a tu vida",
+      "authors": ["María Elena Molina"],
+      "narrators": ["María Elena Molina"],
+      "runtime": "00:06:27",
+      "cover_url": "https://images.findawayworld.com/v1/image/cover/CD261524",
+      "isDownloaded": true,
+      "progress": 26,
+      "lastPlayedDate": "2019-11-20T18:41:17.493Z",
+      "purchasedDate": "2019-11-19T23:57:12.589Z"
+    },
+    {
+      "id": 311353,
+      "title": "¿Quién es mi mascota?",
+      "authors": ["Milanka Ratkovich"],
+      "narrators": ["Ana Paula Corpus"],
+      "runtime": "00:12:35",
+      "cover_url": "https://images.findawayworld.com/v1/image/cover/CD277511",
+      "isDownloaded": false,
+      "progress": 0,
+      "lastPlayedDate": "2019-11-21T16:19:42.532Z",
+      "purchasedDate": "2019-11-19T23:54:02.257Z"
+    },
+    {
+      "id": 322828,
+      "title": "Millennials: Una generación ansiosa 3",
+      "authors": ["Gisela Chávez Murillo"],
+      "narrators": ["Mauque Toussaint", "Adrián Ogazón"],
+      "runtime": "00:44:34",
+      "cover_url": "https://images.findawayworld.com/v1/image/cover/CD287976",
+      "isDownloaded": false,
+      "progress": 100,
+      "lastPlayedDate": "2019-11-23T19:16:08.980Z",
+      "purchasedDate": "2019-11-19T23:31:40.255Z"
+    },
+    {
+      "id": 315472,
+      "title": "El Príncipe Feliz",
+      "authors": ["Oscar Wilde"],
+      "narrators": ["Claudia Ramírez Lomelí"],
+      "runtime": "00:27:25",
+      "cover_url": "https://images.findawayworld.com/v1/image/cover/CD281637",
+      "isDownloaded": true,
+      "progress": 38,
+      "lastPlayedDate": "2019-11-24T01:24:32.924Z",
+      "purchasedDate": "2019-11-19T23:23:15.194Z"
+    },
+    {
+      "id": 323919,
+      "title": "Balas y balones",
+      "authors": ["Patricio Betancourt"],
+      "narrators": ["Patricio Betancourt"],
+      "runtime": "00:18:19",
+      "cover_url": "https://images.findawayworld.com/v1/image/cover/CD290005",
+      "isDownloaded": false,
+      "progress": 0,
+      "lastPlayedDate": "2019-11-23T19:39:35.285Z",
+      "purchasedDate": "2019-11-19T23:21:36.723Z"
+    },
+    {
+      "id": 324429,
+      "title": "Los colores del balón",
+      "authors": ["Patricio Betancourt"],
+      "narrators": ["Patricio Betancourt"],
+      "runtime": "00:17:54",
+      "cover_url": "https://images.findawayworld.com/v1/image/cover/CD290004",
+      "isDownloaded": true,
+      "progress": 100,
+      "lastPlayedDate": "2019-11-27T00:07:22.956Z",
+      "purchasedDate": "2019-11-19T23:18:35.262Z"
+    },
+    {
+      "id": 304266,
+      "title": "Juegos Sexuales",
+      "authors": ["Nina Benedetta"],
+      "narrators": ["Sergio Mejía"],
+      "runtime": "00:25:02",
+      "cover_url": "https://images.findawayworld.com/v1/image/cover/CD270385",
+      "isDownloaded": true,
+      "progress": 12,
+      "lastPlayedDate": "2019-11-20T14:16:12.105Z",
+      "purchasedDate": "2019-11-19T23:05:57.265Z"
+    },
+    {
+      "id": 317134,
+      "title": "Aprendiendo a disfrutar",
+      "authors": ["Juan Pablo Ortiz"],
+      "narrators": ["Alessia di Vari"],
+      "runtime": "00:26:45",
+      "cover_url": "https://images.findawayworld.com/v1/image/cover/CD283410",
+      "isDownloaded": false,
+      "progress": 5,
+      "lastPlayedDate": "2019-11-19T23:43:50.275Z",
+      "purchasedDate": "2019-11-19T23:01:13.982Z"
+    },
+    {
+      "id": 328193,
+      "title": "Entre el cielo y la tierra",
+      "authors": ["Erika Notni"],
+      "narrators": ["Tania Martínez"],
+      "runtime": "05:18:44",
+      "cover_url": "https://images.findawayworld.com/v1/image/cover/CD293261",
+      "isDownloaded": false,
+      "progress": 100,
+      "lastPlayedDate": "2019-11-19T22:53:22.055Z",
+      "purchasedDate": "2019-11-19T22:53:14.627Z"
+    },
+    {
+      "id": 328194,
+      "title": "Somos una somos todas",
+      "authors": ["Jimena Reynoso"],
+      "narrators": ["Ana Ragasol"],
+      "runtime": "01:01:57",
+      "cover_url": "https://images.findawayworld.com/v1/image/cover/CD293263",
+      "isDownloaded": true,
+      "progress": 88,
+      "lastPlayedDate": "2019-11-29T02:03:34.010Z",
+      "purchasedDate": "2019-11-19T22:39:31.133Z"
+    }
+  ]
+}
